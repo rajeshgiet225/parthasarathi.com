@@ -1,0 +1,461 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="partha.com" resolutions="1x" timestamp="1605518433584">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="all-items.css" crc="3835988454" ref="all-items"/>
+    <file name="nomq_all-items.css" crc="62553836" ref="all-items"/>
+    <file name="page3.css" crc="4112562704" ref="page3"/>
+    <file name="nomq_page3.css" crc="4204156278" ref="page3"/>
+    <file name="contact.css" crc="3875774363" ref="contact"/>
+    <file name="nomq_contact.css" crc="4095453057" ref="contact"/>
+    <file name="page2.css" crc="3992869709" ref="page2"/>
+    <file name="nomq_page2.css" crc="312147889" ref="page2"/>
+    <file name="latest-musical-instruments.css" crc="298328025" ref="latest-musical-instruments"/>
+    <file name="nomq_latest-musical-instruments.css" crc="453882986" ref="latest-musical-instruments"/>
+    <file name="gallery.css" crc="4148719785" ref="gallery"/>
+    <file name="nomq_gallery.css" crc="141002744" ref="gallery"/>
+    <file name="index.css" crc="3835495530" ref="index"/>
+    <file name="nomq_index.css" crc="4105521082" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="latest-musical-instruments:all-items:gallery:contact:page2:page3:index"/>
+    <file name="museutils.js" crc="3939489907" ref="latest-musical-instruments:all-items:gallery:contact:page2:page3:index"/>
+    <file name="whatinput.js" crc="86476730" ref="latest-musical-instruments:all-items:gallery:contact:page2:page3:index"/>
+    <file name="museconfig.js" crc="3936894949" ref="latest-musical-instruments:all-items:gallery:contact:page2:page3:index"/>
+    <file name="jquery.watch.js" crc="522499760" ref="latest-musical-instruments:all-items:gallery:contact:page2:page3:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="latest-musical-instruments:all-items:gallery:page2:page3:index"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="latest-musical-instruments:all-items:gallery:contact:page2:page3:index"/>
+    <file name="webpro.js" crc="3856315280" ref="latest-musical-instruments:all-items:gallery:contact:page2:page3:index"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="latest-musical-instruments:all-items:gallery:contact:page2:page3:index"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="latest-musical-instruments:all-items:gallery:contact:page2:page3:index"/>
+    <file name="touchswipe.js" crc="3888935200" ref="latest-musical-instruments:all-items:gallery:contact:page2:page3:index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="latest-musical-instruments:all-items:gallery:contact:page2:page3:index"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="latest-musical-instruments:all-items:gallery:contact:page2:page3:index"/>
+    <file name="require.js" crc="4177726516" ref="latest-musical-instruments:all-items:gallery:contact:page2:page3:index"/>
+  </folder>
+  <folder name="images">
+    <file name="u5993-4.png" crc="3966068469" ref="latest-musical-instruments"/>
+    <file name="u5984-4.png" crc="3780378056" ref="latest-musical-instruments"/>
+    <file name="dribble.jpg" crc="4280254567" seo="true" ref="latest-musical-instruments:all-items:gallery:contact:page2:page3:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="page3" alt=""/>
+      <caption webpage="page3" alt=""/>
+      <caption webpage="latest-musical-instruments" alt=""/>
+      <caption webpage="all-items" alt=""/>
+      <caption webpage="all-items" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="page2" alt=""/>
+      <caption webpage="page2" alt=""/>
+    </file>
+    <file name="facebook.jpg" crc="4123022462" seo="true" ref="latest-musical-instruments:all-items:gallery:contact:page2:page3:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="page3" alt=""/>
+      <caption webpage="page3" alt=""/>
+      <caption webpage="latest-musical-instruments" alt=""/>
+      <caption webpage="all-items" alt=""/>
+      <caption webpage="all-items" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="page2" alt=""/>
+      <caption webpage="page2" alt=""/>
+    </file>
+    <file name="linkedin.jpg" crc="3814020931" seo="true" ref="latest-musical-instruments:all-items:gallery:contact:page2:page3:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="page3" alt=""/>
+      <caption webpage="page3" alt=""/>
+      <caption webpage="latest-musical-instruments" alt=""/>
+      <caption webpage="all-items" alt=""/>
+      <caption webpage="all-items" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="page2" alt=""/>
+      <caption webpage="page2" alt=""/>
+    </file>
+    <file name="rss.png" crc="4144695932" seo="true" ref="latest-musical-instruments:all-items:gallery:contact:page2:page3:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="page3" alt=""/>
+      <caption webpage="page3" alt=""/>
+      <caption webpage="latest-musical-instruments" alt=""/>
+      <caption webpage="latest-musical-instruments" alt=""/>
+      <caption webpage="all-items" alt=""/>
+      <caption webpage="all-items" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="page2" alt=""/>
+      <caption webpage="page2" alt=""/>
+    </file>
+    <file name="pinterest.jpg" crc="217599108" seo="true" ref="latest-musical-instruments:all-items:gallery:contact:page2:page3:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="page3" alt=""/>
+      <caption webpage="page3" alt=""/>
+      <caption webpage="latest-musical-instruments" alt=""/>
+      <caption webpage="all-items" alt=""/>
+      <caption webpage="all-items" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="page2" alt=""/>
+      <caption webpage="page2" alt=""/>
+    </file>
+    <file name="twitter.jpg" crc="476929557" seo="true" ref="latest-musical-instruments:all-items:gallery:contact:page2:page3:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="page3" alt=""/>
+      <caption webpage="page3" alt=""/>
+      <caption webpage="latest-musical-instruments" alt=""/>
+      <caption webpage="all-items" alt=""/>
+      <caption webpage="all-items" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="page2" alt=""/>
+      <caption webpage="page2" alt=""/>
+    </file>
+    <file name="abstract-yellow-brush-stroke-white-background_23-2147835995.jpg" crc="4129923296" ref="latest-musical-instruments">
+      <caption webpage="latest-musical-instruments" alt=""/>
+      <caption webpage="latest-musical-instruments" alt=""/>
+      <caption webpage="latest-musical-instruments" alt=""/>
+      <caption webpage="latest-musical-instruments" alt=""/>
+      <caption webpage="latest-musical-instruments" alt=""/>
+      <caption webpage="latest-musical-instruments" alt=""/>
+      <caption webpage="latest-musical-instruments" alt=""/>
+      <caption webpage="latest-musical-instruments" alt=""/>
+      <caption webpage="latest-musical-instruments" alt=""/>
+      <caption webpage="latest-musical-instruments" alt=""/>
+    </file>
+    <file name="key.jpg" crc="4103200917" ref="latest-musical-instruments">
+      <caption webpage="latest-musical-instruments" alt=""/>
+      <caption webpage="latest-musical-instruments" alt=""/>
+    </file>
+    <file name="felipe-randolfi-x0s-qxzhltm-unsplash.jpg" crc="459358826" ref="latest-musical-instruments">
+      <caption webpage="latest-musical-instruments" alt=""/>
+    </file>
+    <file name="behzad-soleimanian-ok529xfnfbi-unsplash.jpg" crc="44832192" ref="latest-musical-instruments">
+      <caption webpage="latest-musical-instruments" alt=""/>
+    </file>
+    <file name="saxo.jpg" crc="3814268441" ref="latest-musical-instruments">
+      <caption webpage="latest-musical-instruments" alt=""/>
+    </file>
+    <file name="clarinet.jpg" crc="68609960" ref="latest-musical-instruments">
+      <caption webpage="latest-musical-instruments" alt=""/>
+    </file>
+    <file name="dean-sunburst-guitar.png" crc="137435666" ref="latest-musical-instruments">
+      <caption webpage="latest-musical-instruments" alt=""/>
+    </file>
+    <file name="u5993-42.png" crc="32966438" ref="latest-musical-instruments"/>
+    <file name="pinterest18x18.jpg" crc="4213653121" seo="true" ref="latest-musical-instruments">
+      <caption webpage="latest-musical-instruments" alt=""/>
+    </file>
+    <file name="twitter18x18.jpg" crc="436711096" seo="true" ref="latest-musical-instruments">
+      <caption webpage="latest-musical-instruments" alt=""/>
+    </file>
+    <file name="dribble18x18.jpg" crc="4235311644" seo="true" ref="latest-musical-instruments">
+      <caption webpage="latest-musical-instruments" alt=""/>
+    </file>
+    <file name="facebook18x18.jpg" crc="3954577024" seo="true" ref="latest-musical-instruments">
+      <caption webpage="latest-musical-instruments" alt=""/>
+    </file>
+    <file name="linkedin18x18.jpg" crc="255399381" seo="true" ref="latest-musical-instruments">
+      <caption webpage="latest-musical-instruments" alt=""/>
+    </file>
+    <file name="u5984-42.png" crc="4047795163" ref="latest-musical-instruments"/>
+    <file name="dean-sunburst-guitar-u5973-fr.png" crc="271564552" ref="latest-musical-instruments"/>
+    <file name="felipe-randolfi-x0s-qxzhltm-unsplash-u6010-fr.jpg" crc="4029749035" ref="latest-musical-instruments"/>
+    <file name="behzad-soleimanian-ok529xfnfbi-unsplash-u6047-fr.jpg" crc="15274017" ref="latest-musical-instruments"/>
+    <file name="saxo-u6064-fr.jpg" crc="4047081190" ref="latest-musical-instruments"/>
+    <file name="clarinet-u6081-fr.jpg" crc="39473426" ref="latest-musical-instruments"/>
+    <file name="blank.gif" crc="4208392903" ref="latest-musical-instruments:all-items:gallery:contact:page2:page3:index"/>
+    <file name="u2596-4.png" crc="4087605048" ref="all-items"/>
+    <file name="electronic-nagada-250x250.jpg" crc="4069450387" ref="all-items">
+      <caption webpage="all-items" alt=""/>
+    </file>
+    <file name="dholak-250x250.jpg" crc="402598446" ref="all-items">
+      <caption webpage="all-items" alt=""/>
+    </file>
+    <file name="classical-tabla-250x250.jpg" crc="471581092" ref="all-items">
+      <caption webpage="all-items" alt=""/>
+      <caption webpage="all-items" alt=""/>
+    </file>
+    <file name="22-250x250-u2532-fr.jpg" crc="181353375" ref="all-items"/>
+    <file name="pambai-250x250.jpg" crc="3878894456" ref="all-items">
+      <caption webpage="all-items" alt=""/>
+      <caption webpage="all-items" alt=""/>
+    </file>
+    <file name="yamaha-alto-saxophone-yas-280-500x500-u2560-fr.jpg" crc="189696120" ref="all-items"/>
+    <file name="electronic-tabla-125x125.jpg" crc="4157395221" ref="all-items">
+      <caption webpage="all-items" alt=""/>
+    </file>
+    <file name="electronic-tanpura-125x125.jpg" crc="531962788" ref="all-items">
+      <caption webpage="all-items" alt=""/>
+    </file>
+    <file name="plastic-vioilin-250x250-u5027-fr.jpg" crc="172385190" ref="all-items"/>
+    <file name="silver-maracus-250x250.jpg" crc="379095260" ref="all-items">
+      <caption webpage="all-items" alt=""/>
+      <caption webpage="all-items" alt=""/>
+    </file>
+    <file name="u2596-42.png" crc="347298241" ref="all-items"/>
+    <file name="electronic-nagada-250x250-u2485-fr.jpg" crc="4218690462" ref="all-items"/>
+    <file name="dholak-250x250-u2512-fr.jpg" crc="3832338365" ref="all-items"/>
+    <file name="22-250x250-u2532-fr2.jpg" crc="503151149" ref="all-items"/>
+    <file name="yamaha-alto-saxophone-yas-280-500x500-u2560-fr2.jpg" crc="3759061680" ref="all-items"/>
+    <file name="plastic-vioilin-250x250-u5027-fr2.jpg" crc="3906641267" ref="all-items"/>
+    <file name="guitalm.jpg" crc="3988517532" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="box.jpg" crc="3805304661" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="casio-indian-keyboard-ctk-630-500x500.jpg" crc="4089642404" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="ggy (2).jpg" crc="3920068797" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gk-flute-red-300x300.jpg" crc="4141969258" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="multi pad.jpg" crc="18495580" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="prisha-india-craftkathak-ghungroo-pair-sdl150018542-1-48c1d-300x300.jpg" crc="164309981" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="untitled4-286x300.jpg" crc="3798625995" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="basuri.jpg" crc="510264540" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="raagini-digital-electronic-tanpura-sound-labs-original-imaekjprs7ercktr-300x300.jpg" crc="3936167438" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="ggy (4).jpg" crc="4140479201" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="ggy (5).jpg" crc="4289899796" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="ggy (8).jpg" crc="3970938731" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="ggy (9).jpg" crc="286938429" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="ggy (10).jpg" crc="136207249" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="harmonium-classic-light-brown-09.jpg" crc="3987068700" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="hsn-code-and-gst-rate-for-musical-instruments.jpg" crc="494406484" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="tabla2.jpg" crc="58278978" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="yamaha-alto-saxophone-yas-280-500x500.jpg" crc="3775030354" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="first.svg" crc="4214889106" ref="gallery"/>
+    <file name="first_poster_u1761.png" crc="154968947" ref="gallery"/>
+    <file name="left-arrow.svg" crc="3949976111" ref="gallery"/>
+    <file name="left-arrow_poster_u1827.png" crc="4189366824" ref="gallery"/>
+    <file name="right-arrow.svg" crc="415473593" ref="gallery"/>
+    <file name="right-arrow_poster_u1843.png" crc="3934377674" ref="gallery"/>
+    <file name="last.svg" crc="3807741576" ref="gallery"/>
+    <file name="last_poster_u1802.png" crc="412417395" ref="gallery"/>
+    <file name="pasted-svg-36x36.svg" crc="3916680880" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="box382x382.jpg" crc="4137592791" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="ggy (2)408x339.jpg" crc="4164565337" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="multi pad382x360.jpg" crc="520472001" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="basuri-crop-u4809.jpg" crc="319436959" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="ggy (4)386x339.jpg" crc="490811896" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="ggy (5)450x339.jpg" crc="4249862182" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="ggy (8)-crop-u2136.jpg" crc="4159430407" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="ggy (9)452x339.jpg" crc="3776972380" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="ggy (10)-crop-u2188.jpg" crc="4190184487" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="harmonium-classic-light-brown-09382x382.jpg" crc="3761497354" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="hsn-code-and-gst-rate-for-musical-instruments-crop-u2240.jpg" crc="4055744020" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="tabla2-crop-u2266.jpg" crc="4148852623" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="yamaha-alto-saxophone-yas-280-500x500-crop-u2292.jpg" crc="3858291215" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="gallery:index"/>
+    <file name="guitalm-u770-fr.jpg" crc="315458453" ref="gallery"/>
+    <file name="basuri-crop-u48092.jpg" crc="319436959" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="ggy (8)-crop-u21362.jpg" crc="4159430407" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="ggy (10)-crop-u21882.jpg" crc="4190184487" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="hsn-code-and-gst-rate-for-musical-instruments-crop-u22402.jpg" crc="4055744020" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="tabla2-crop-u22662.jpg" crc="4148852623" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="yamaha-alto-saxophone-yas-280-500x500-crop-u22922.jpg" crc="3858291215" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="multi pad-u4313-fr.jpg" crc="155160982" ref="page2"/>
+    <file name="korg pa600.jpg" crc="4226158137" ref="page2">
+      <caption webpage="page2" alt=""/>
+    </file>
+    <file name="wireless.jpg" crc="3846943529" ref="page2">
+      <caption webpage="page2" alt=""/>
+      <caption webpage="page2" alt=""/>
+    </file>
+    <file name="basuri-u3054-fr.jpg" crc="421728494" ref="page2"/>
+    <file name="4_1024x1024.jpg" crc="3773653099" ref="page2">
+      <caption webpage="page2" alt=""/>
+      <caption webpage="page2" alt=""/>
+    </file>
+    <file name="brass-musical-instruments-250x250.jpg" crc="128287080" ref="page2">
+      <caption webpage="page2" alt=""/>
+    </file>
+    <file name="sitar-250x250.jpg" crc="4123645709" ref="page2">
+      <caption webpage="page2" alt=""/>
+    </file>
+    <file name="casio-indian-keyboard-ctk-630-500x500-u2702-fr.jpg" crc="378925613" ref="page2"/>
+    <file name="electronic-drum-set-250x250.jpg" crc="407588415" ref="page2">
+      <caption webpage="page2" alt=""/>
+    </file>
+    <file name="ggy (2)-u2667-fr.jpg" crc="3790168361" ref="page2"/>
+    <file name="multi pad-u4313-fr2.jpg" crc="490564031" ref="page2"/>
+    <file name="basuri-u3054-fr2.jpg" crc="427834552" ref="page2"/>
+    <file name="casio-indian-keyboard-ctk-630-500x500-u2702-fr2.jpg" crc="164359900" ref="page2"/>
+    <file name="ggy (2)-u2667-fr2.jpg" crc="3873217914" ref="page2"/>
+    <file name="gk-flute-red-300x300-u4351-fr.jpg" crc="180358175" ref="page3"/>
+    <file name="bee-como-kids-children-musical-sdl217557502-1-86bb2-300x300.jpg" crc="4054838917" ref="page3">
+      <caption webpage="page3" alt=""/>
+      <caption webpage="page3" alt=""/>
+    </file>
+    <file name="prisha-india-craftkathak-ghungroo-pair-sdl150018542-1-48c1d-300x300-u3042-fr.jpg" crc="3864050788" ref="page3"/>
+    <file name="raagini-digital-electronic-tanpura-sound-labs-original-imaekjprs7ercktr-300x300-u3044-fr.jpg" crc="207638287" ref="page3"/>
+    <file name="ggy (5)-u2863-fr.jpg" crc="41585479" ref="page3"/>
+    <file name="percussion-musical-cymbal-250x250.jpg" crc="4018133023" ref="page3">
+      <caption webpage="page3" alt=""/>
+      <caption webpage="page3" alt=""/>
+    </file>
+    <file name="untitled4-286x300-u2850-fr.jpg" crc="4024513565" ref="page3"/>
+    <file name="6-alice-smooth-nylon-ap200e-original-imaeck3z5hzvs6by-300x300.jpg" crc="4009034439" ref="page3">
+      <caption webpage="page3" alt=""/>
+      <caption webpage="page3" alt=""/>
+    </file>
+    <file name="guitar stand.jpg" crc="82749121" ref="page3">
+      <caption webpage="page3" alt=""/>
+      <caption webpage="page3" alt=""/>
+    </file>
+    <file name="c15-guitar-keyboard-mic-stranger-original-imaegxzzxzn5wg5g-1-300x300.jpg" crc="490488644" ref="page3">
+      <caption webpage="page3" alt=""/>
+      <caption webpage="page3" alt=""/>
+    </file>
+    <file name="gk-flute-red-300x300-u4351-fr2.jpg" crc="3994292207" ref="page3"/>
+    <file name="prisha-india-craftkathak-ghungroo-pair-sdl150018542-1-48c1d-300x300-u3042-fr2.jpg" crc="354021342" ref="page3"/>
+    <file name="raagini-digital-electronic-tanpura-sound-labs-original-imaekjprs7ercktr-300x300-u3044-fr2.jpg" crc="4063045327" ref="page3"/>
+    <file name="ggy (5)-u2863-fr2.jpg" crc="3782937946" ref="page3"/>
+    <file name="untitled4-286x300-u2850-fr2.jpg" crc="62498825" ref="page3"/>
+    <file name="b1.jpg" crc="323020783" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="b2.jpg" crc="471245268" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="d3.jpg" crc="302465165" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="owner.jpg" crc="9545641" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="latest-musical-instruments.html" crc="3786245797" seo="true" mt="1605419639593" redirect="true"/>
+  <file name="all-items.html" crc="233368478" seo="true" mt="1605515734525" redirect="true"/>
+  <file name="gallery.html" crc="3847992814" seo="true" mt="1605515630054" redirect="true"/>
+  <file name="contact.html" crc="4284376091" seo="true" mt="1605516334719" redirect="true"/>
+  <file name="page2.html" crc="57484073" seo="true" mt="1605517816189" redirect="true"/>
+  <file name="page3.html" crc="306521454" seo="true" mt="1605518065930" redirect="true"/>
+  <file name="index.html" crc="3967663491" seo="true" mt="1605516259204" redirect="true"/>
+</manifest>
